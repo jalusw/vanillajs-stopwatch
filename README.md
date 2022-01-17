@@ -1,3 +1,3 @@
 # STOPWATCH
 
-a Simple stopwatch using HTML, CSS, and javascript.
+a Simple stopwatch created with HTML, CSS, and javascript.
