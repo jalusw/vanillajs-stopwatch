@@ -1,1 +1,3 @@
-# stopwatch_native
+# STOPWATCH
+
+a Simple stopwatch using HTML, CSS, and javascript.
